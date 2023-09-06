@@ -1,0 +1,142 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+#app-wrap {
+  margin: 15px;
+  padding: 10px;
+  background-color: rgb(214, 208, 208);
+  border-radius: 10px;
+  width: 95%;
+}
+#courses {
+  padding: 25px;
+  background-color: #f4f6ff;
+  width: 500px;
+  border-radius: 10px;
+}
+#date-wrap {
+  display: flex;
+  justify-content: space-between;
+}
+#addcourse-icon {
+  background-color: #0068ff;
+  border-radius: 10px;
+}
+#dateline {
+  color: #0068ff;
+  font-weight: bolder;
+}
+#addcourse-heading-wrap {
+  display: flex;
+  justify-content: space-between;
+}
+#slider-left-1 {
+  margin-left: -200px;
+  border-radius: 5px;
+  width: 20px;
+  height: 20px;
+}
+#slider-right-1 {
+  margin-left: -245px;
+  border-radius: 5px;
+  width: 20px;
+  height: 20px;
+}
+
+#list-layout-icons {
+  width: 50px;
+  height: 30px;
+  background-color: white;
+  display: flex;
+  border-radius: 15px;
+}
+#list-icon {
+  background-color: #0068ff;
+  border-radius: 15px;
+}
+#grid-icon {
+  border-radius: 15px;
+}
+#cards {
+  padding: 15px;
+}
+#no-12 {
+  margin-left: 20px;
+  padding: 3px;
+  padding-top: 5px;
+  padding-bottom: 1px;
+  width: 30px;
+  height: 30px;
+  border-radius: 7px;
+  background: white;
+  text-align: center;
+
+  color: black;
+}
+#card-fb {
+  padding: 20px;
+  background-color: #0068ff;
+  border-radius: 15px;
+  color: white;
+}
+#card-fb-one {
+  display: flex;
+  justify-content: space-around;
+}
+#12-icon {
+  margin-left: 7px;
+}
+#card-fb-two {
+  display: flex;
+}
+#sumup {
+  display: flex;
+}
+#imgwhite {
+  width: 24px;
+  margin-top: -5px;
+}
+#card-grow {
+  padding: 20px;
+  background-color: #cf74ff;
+  border-radius: 15px;
+  color: white;
+}
+#card-grow-one {
+  display: flex;
+  justify-content: space-around;
+}
+.enrolled {
+  margin-top: -10px;
+}
+#card-ds {
+  padding: 20px;
+  background-color: #fadb39;
+  border-radius: 15px;
+  color: #24243a;
+}
+#card-ds-one {
+  display: flex;
+  justify-content: space-around;
+}
+#Full {
+  margin-left: 20px;
+}
+#card-target {
+  padding: 20px;
+  background-color: #ed7071;
+  border-radius: 15px;
+  color: #f4f6ff;
+}
+#card-target-one {
+  display: flex;
+  justify-content: space-around;
+}
+#Full-black {
+  margin-left: 20px;
+  color: #24243a;
+}
