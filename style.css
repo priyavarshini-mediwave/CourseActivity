@@ -274,3 +274,11 @@ body {
   border-radius: 5px;
   background-color: #a2a9c8;
 }
+#calendar-time {
+  display: flex;
+  justify-content: space-between;
+}
+#week {
+  font-weight: bolder;
+  border-bottom: 3px solid #0068ff;
+}
